@@ -1,0 +1,21 @@
+{
+  "batch_id": "f0ec845c-d2a5-41da-9f17-5f95db7430de",
+  "user_id": "88ba0848-f6fd-4918-9242-708311fcd08e",
+  "source": "demo_wearable",
+  "ticks": [
+    {"device_id": "48ad3b6e-1a5b-4cfd-a441-86d30ce8a3f0", "observed_at": "2026-10-08T12:00:00Z", "metric": "hrv_rmssd_ms", "value": 47.5},
+    {"device_id": "48ad3b6e-1a5b-4cfd-a441-86d30ce8a3f0", "observed_at": "2026-10-08T12:00:00Z", "metric": "resting_hr_bpm", "value": 61},
+    {"device_id": "48ad3b6e-1a5b-4cfd-a441-86d30ce8a3f0", "observed_at": "2026-10-08T12:00:00Z", "metric": "stress_score", "value": 24},
+    {"device_id": "48ad3b6e-1a5b-4cfd-a441-86d30ce8a3f0", "observed_at": "2026-10-08T13:00:00Z", "metric": "steps", "value": 584},
+    {"device_id": "48ad3b6e-1a5b-4cfd-a441-86d30ce8a3f0", "observed_at": "2026-10-08T13:00:00Z", "metric": "active_energy_kcal", "value": 42.6}
+  ],
+  "sleep_sessions": [
+    {"session_id": "64b4dbcd-78f4-42af-a9a6-d62418c42e0c", "device_id": "48ad3b6e-1a5b-4cfd-a441-86d30ce8a3f0", "started_at": "2026-10-08T03:00:00Z", "ended_at": "2026-10-08T10:30:00Z", "deep_minutes": 90, "rem_minutes": 100, "light_minutes": 230, "awake_minutes": 30}
+  ],
+  "nutrition_entries": [
+    {"entry_id": "87a13137-82e2-4f44-831e-a606f19ed307", "consumed_at": "2026-10-08T12:20:00Z", "calories_kcal": "610.00", "carbs_g": "70.00", "protein_g": "35.00", "fat_g": "20.00"}
+  ],
+  "subjective_checkins": [
+    {"checkin_id": "62d2f984-7d32-4df3-b8fa-cc7d4ef31fb9", "observed_at": "2026-10-08T12:30:00Z", "mood": 7, "energy": 6}
+  ]
+}
